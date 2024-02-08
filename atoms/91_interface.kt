@@ -26,3 +26,8 @@ interface ItemTrade {
 	fun buy()
 	fun sell()
 }
+
+
+// Item name is BOOK, price is 10000
+// [buy] BOOK
+// [sell] BOOK
